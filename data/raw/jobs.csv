@@ -1,0 +1,294 @@
+
+role,skills,experience
+Data Analyst,"Python, SQL, Excel",1
+ML Engineer,"Python, Machine Learning, NLP",2
+Data Scientist,"Python, Statistics, Machine Learning",2
+Data Engineer,"Python, SQL, Spark",2
+NLP Engineer,"Python, NLP, Transformers",3
+Software Engineer,"Python, SQL, Git, Data Structures, Algorithms",0
+Software Developer,"Python, SQL, Git, Data Structures, Algorithms",0
+Junior Software Engineer,"Python, SQL, Git, Data Structures, Algorithms",0
+Senior Software Engineer,"Java, OOP, Spring Boot, SQL, Git",1
+Backend Developer,"C++, OOP, Linux, Git, Algorithms",1
+Senior Backend Engineer,"TypeScript, Node.js, React, REST API, Git",2
+Frontend Developer,"Python, SQL, Git, Data Structures, Algorithms",0
+Senior Frontend Engineer,"Java, OOP, Spring Boot, SQL, Git",1
+Full Stack Developer,"C++, OOP, Linux, Git, Algorithms",1
+Senior Full Stack Engineer,"TypeScript, Node.js, React, REST API, Git",2
+Python Developer,"Python, SQL, Git, Data Structures, Algorithms",3
+Java Developer,"Java, OOP, Spring Boot, SQL, Git",4
+C++ Developer,"JavaScript, React, HTML, CSS, Git",5
+C# Developer,"C++, OOP, Linux, Git, Algorithms",6
+Go Developer,"TypeScript, Node.js, React, REST API, Git",0
+Rust Developer,"Python, SQL, Git, Data Structures, Algorithms",1
+Scala Developer,"Java, OOP, Spring Boot, SQL, Git",2
+Kotlin Developer,"JavaScript, React, HTML, CSS, Git",3
+TypeScript Developer,"C++, OOP, Linux, Git, Algorithms",4
+API Developer,"TypeScript, Node.js, React, REST API, Git",5
+Microservices Developer,"Python, SQL, Git, Data Structures, Algorithms",6
+Distributed Systems Engineer,"Java, OOP, Spring Boot, SQL, Git",0
+Platform Engineer,"JavaScript, React, HTML, CSS, Git",1
+Application Engineer,"C++, OOP, Linux, Git, Algorithms",2
+Integration Engineer,"TypeScript, Node.js, React, REST API, Git",3
+Systems Software Engineer,"Python, SQL, Git, Data Structures, Algorithms",4
+Compiler Engineer,"Java, OOP, Spring Boot, SQL, Git",5
+SDK Engineer,"JavaScript, React, HTML, CSS, Git",6
+Software Architect,"C++, OOP, Linux, Git, Algorithms",0
+Solutions Architect,"TypeScript, Node.js, React, REST API, Git",1
+Enterprise Architect,"Python, SQL, Git, Data Structures, Algorithms",2
+Technical Architect,"Java, OOP, Spring Boot, SQL, Git",3
+Web Developer,"JavaScript, React, HTML, CSS, Git",4
+Web Application Developer,"C++, OOP, Linux, Git, Algorithms",5
+JavaScript Developer,"TypeScript, Node.js, React, REST API, Git",6
+React Developer,"Python, SQL, Git, Data Structures, Algorithms",0
+Angular Developer,"Java, OOP, Spring Boot, SQL, Git",1
+Vue.js Developer,"JavaScript, React, HTML, CSS, Git",2
+Next.js Developer,"C++, OOP, Linux, Git, Algorithms",3
+Node.js Developer,"TypeScript, Node.js, React, REST API, Git",4
+Django Developer,"Python, SQL, Git, Data Structures, Algorithms",5
+Flask Developer,"Java, OOP, Spring Boot, SQL, Git",6
+FastAPI Developer,"JavaScript, React, HTML, CSS, Git",0
+Spring Boot Developer,"C++, OOP, Linux, Git, Algorithms",1
+Laravel Developer,"TypeScript, Node.js, React, REST API, Git",2
+WordPress Developer,"Python, SQL, Git, Data Structures, Algorithms",3
+UI Engineer,"Java, OOP, Spring Boot, SQL, Git",4
+Web Performance Engineer,"JavaScript, React, HTML, CSS, Git",5
+Accessibility Engineer,"C++, OOP, Linux, Git, Algorithms",6
+Data Analyst,"Python, SQL, Pandas, Statistics, Machine Learning",0
+Senior Data Analyst,"Python, SQL, Spark, ETL, Airflow",1
+Business Intelligence Analyst,"SQL, Power BI, Excel, Statistics, Tableau",2
+BI Developer,"SQL, Power BI, Excel, Statistics, Tableau",3
+Senior Data Scientist,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",4
+Junior Data Scientist,"Python, SQL, Pandas, Statistics, Machine Learning",5
+Analytics Engineer,"Python, SQL, Spark, ETL, Airflow",6
+Machine Learning Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",0
+Senior ML Engineer,"Python, LLMs, RAG, APIs, Vector Databases",1
+AI Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",2
+Senior AI Engineer,"Python, LLMs, RAG, APIs, Vector Databases",3
+AI Developer,"Python, SQL, Pandas, Statistics, Machine Learning",4
+Generative AI Engineer,"Python, LLMs, RAG, APIs, Vector Databases",5
+LLM Engineer,"Python, LLMs, RAG, APIs, Vector Databases",6
+Machine Learning Researcher,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",0
+Deep Learning Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",1
+Computer Vision Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",2
+MLOps Engineer,"Python, SQL, Spark, ETL, Airflow",3
+AI Research Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",4
+Data Mining Engineer,"Python, SQL, Pandas, Statistics, Machine Learning",5
+Quantitative Analyst,"Python, SQL, Pandas, Statistics, Machine Learning",6
+Quantitative Developer,"Python, SQL, Pandas, Statistics, Machine Learning",0
+Data Visualization Developer,"SQL, Power BI, Excel, Statistics, Tableau",1
+Data Quality Engineer,"Python, SQL, Pandas, Statistics, Machine Learning",2
+Data Governance Analyst,"SQL, Power BI, Excel, Statistics, Tableau",3
+Data Warehouse Developer,"Python, SQL, Spark, ETL, Airflow",4
+ETL Developer,"Python, SQL, Spark, ETL, Airflow",5
+Big Data Engineer,"Python, SQL, Spark, ETL, Airflow",6
+Spark Developer,"Python, SQL, Spark, ETL, Airflow",0
+Hadoop Engineer,"Python, SQL, Spark, ETL, Airflow",1
+Streaming Data Engineer,"Python, SQL, Spark, ETL, Airflow",2
+Database Developer,"Python, SQL, Pandas, Statistics, Machine Learning",3
+Database Engineer,"Python, SQL, Spark, ETL, Airflow",4
+Database Administrator,"SQL, Power BI, Excel, Statistics, Tableau",5
+Cloud Data Engineer,"Python, SQL, Spark, ETL, Airflow",6
+Data Platform Engineer,"Python, SQL, Spark, ETL, Airflow",0
+AI Product Engineer,"Python, LLMs, RAG, APIs, Vector Databases",1
+AI Solutions Architect,"Python, LLMs, RAG, APIs, Vector Databases",2
+Machine Learning Platform Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",3
+AI Infrastructure Engineer,"Python, LLMs, RAG, APIs, Vector Databases",4
+AI Operations Engineer,"Python, SQL, Spark, ETL, Airflow",5
+Prompt Engineer,"Python, LLMs, RAG, APIs, Vector Databases",6
+RAG Engineer,"Python, LLMs, RAG, APIs, Vector Databases",0
+AI Evaluation Engineer,"Python, LLMs, RAG, APIs, Vector Databases",1
+AI Safety Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",2
+Responsible AI Analyst,"Python, LLMs, RAG, APIs, Vector Databases",3
+ML Data Engineer,"Python, SQL, Spark, ETL, Airflow",4
+Feature Engineering Specialist,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",5
+Recommendation Systems Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",6
+Search Engineer,"Python, SQL, Spark, ETL, Airflow",0
+Computer Vision Research Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",1
+NLP Research Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",2
+Speech AI Engineer,"Python, PyTorch, Deep Learning, NumPy, Machine Learning",3
+AI Agent Engineer,"Python, LLMs, RAG, APIs, Vector Databases",4
+Data Privacy Engineer,"Python, SQL, Privacy, Security, Data Governance",2
+Data Security Engineer,"SQL, Python, Encryption, IAM, Cloud Security",3
+Database Reliability Engineer,"PostgreSQL, MySQL, Linux, Monitoring, Backup",3
+SQL Developer,"SQL, PostgreSQL, MySQL, Database Design, ETL",1
+PostgreSQL Engineer,"PostgreSQL, SQL, Linux, Performance Tuning, Backup",2
+MySQL Engineer,"MySQL, SQL, Linux, Replication, Backup",2
+NoSQL Engineer,"MongoDB, Redis, DynamoDB, Python, Data Modeling",2
+MongoDB Developer,"MongoDB, Node.js, JavaScript, APIs, Git",1
+Redis Engineer,"Redis, Python, Linux, Caching, Databases",2
+Database Performance Engineer,"SQL, PostgreSQL, MySQL, Performance Tuning, Linux",3
+DevOps Engineer,"Linux, Docker, Kubernetes, Git, CI/CD",2
+Senior DevOps Engineer,"Linux, Kubernetes, Terraform, Docker, AWS, CI/CD",5
+Junior DevOps Engineer,"Linux, Git, Docker, CI/CD, Bash",0
+Cloud Engineer,"AWS, Linux, Terraform, Docker, Networking",2
+Senior Cloud Engineer,"AWS, Azure, Kubernetes, Terraform, Linux",5
+AWS Cloud Engineer,"AWS, EC2, S3, IAM, VPC, Terraform",2
+Azure Cloud Engineer,"Azure, Azure DevOps, Terraform, Networking, Linux",2
+Google Cloud Engineer,"GCP, Kubernetes, Terraform, Linux, Networking",2
+Cloud Architect,"AWS, Azure, Kubernetes, Terraform, System Design",6
+Cloud Security Engineer,"AWS, IAM, Security, Terraform, Networking",3
+Site Reliability Engineer,"Linux, Kubernetes, Prometheus, Grafana, Python",3
+Senior SRE,"Kubernetes, Linux, Terraform, Prometheus, AWS, Python",5
+Platform Reliability Engineer,"Kubernetes, Linux, Terraform, CI/CD, Monitoring",3
+Infrastructure Engineer,"Linux, Networking, Terraform, Ansible, Cloud",2
+Infrastructure Automation Engineer,"Python, Ansible, Terraform, Linux, AWS",2
+Build Engineer,"CI/CD, Git, Jenkins, Linux, Docker",2
+Release Engineer,"CI/CD, Git, Jenkins, Docker, Release Management",2
+CI/CD Engineer,"Jenkins, GitHub Actions, Docker, Kubernetes, Git",2
+Kubernetes Engineer,"Kubernetes, Docker, Helm, Linux, Terraform",2
+Terraform Engineer,"Terraform, AWS, Azure, Git, CI/CD",2
+Cloud Automation Engineer,"Python, Terraform, Ansible, AWS, Linux",2
+DevSecOps Engineer,"Docker, Kubernetes, Security, Terraform, CI/CD",3
+Infrastructure Security Engineer,"Linux, Networking, IAM, Cloud Security, Terraform",3
+Observability Engineer,"Prometheus, Grafana, OpenTelemetry, Kubernetes, Linux",2
+Production Engineer,"Linux, Python, Kubernetes, Monitoring, CI/CD",2
+Cloud Operations Engineer,"AWS, Linux, Monitoring, Terraform, Networking",2
+Cloud Support Engineer,"AWS, Linux, Networking, Troubleshooting, Python",1
+FinOps Analyst,"AWS, Azure, Cloud Cost Management, Excel, SQL",2
+Cloud Migration Engineer,"AWS, Azure, Networking, Terraform, Linux",3
+Serverless Engineer,"AWS Lambda, Python, API Gateway, DynamoDB, Terraform",2
+Cloud Native Engineer,"Kubernetes, Docker, Go, Terraform, Linux",3
+Linux Systems Engineer,"Linux, Bash, Python, Networking, Docker",2
+Windows Systems Engineer,"Windows Server, PowerShell, Active Directory, Networking",2
+Site Operations Engineer,"Linux, Monitoring, Python, Kubernetes, Networking",2
+IT Automation Engineer,"PowerShell, Python, Ansible, Linux, Windows",2
+Endpoint Security Engineer,"Windows, Linux, EDR, PowerShell, Security",2
+Endpoint Management Engineer,"Windows, Intune, PowerShell, Active Directory",2
+Cloud Network Engineer,"AWS, Azure, Networking, Terraform, VPN",3
+Network Cloud Architect,"AWS, Azure, BGP, Networking, Security",5
+SD-WAN Engineer,"Networking, SD-WAN, Routing, Security, Linux",2
+Network Performance Engineer,"Networking, TCP/IP, Monitoring, Python, Linux",2
+Cybersecurity Analyst,"Cybersecurity, Linux, Networking, SIEM, Python",1
+Senior Cybersecurity Analyst,"SIEM, Incident Response, Linux, Networking, Python",4
+SOC Analyst,"SIEM, Networking, Linux, Incident Response, Cybersecurity",1
+SOC Engineer,"SIEM, Python, Linux, Networking, Security",2
+Security Engineer,"Linux, Networking, Python, SIEM, Cloud Security",2
+Senior Security Engineer,"Cloud Security, Linux, SIEM, Python, Networking",5
+Application Security Engineer,"OWASP, Python, Web Security, Git, Burp Suite",2
+Cloud Security Architect,"Cloud Security, AWS, IAM, Zero Trust, Networking",5
+Security Architect,"Security Architecture, IAM, Networking, Cloud, Risk",6
+Network Security Engineer,"Networking, Firewalls, VPN, IDS, Linux",2
+Cybersecurity Engineer,"Linux, Networking, SIEM, Python, Security",2
+Penetration Tester,"Linux, Networking, Burp Suite, OWASP, Python",2
+Ethical Hacker,"Linux, Networking, Kali Linux, Python, OWASP",1
+Vulnerability Analyst,"Vulnerability Management, Linux, Networking, SIEM, Security",1
+Incident Response Analyst,"Incident Response, SIEM, Linux, Forensics, Networking",2
+Digital Forensics Analyst,"Digital Forensics, Linux, Python, Incident Response, Security",2
+Threat Intelligence Analyst,"Threat Intelligence, OSINT, Python, SIEM, Cybersecurity",2
+Malware Analyst,"Reverse Engineering, Python, C, Assembly, Linux",2
+Security Operations Engineer,"SIEM, SOAR, Python, Linux, Networking",2
+Identity and Access Management Engineer,"IAM, Active Directory, Azure AD, SSO, Security",2
+IAM Architect,"IAM, SSO, OAuth, Active Directory, Cloud Security",5
+Zero Trust Security Engineer,"Zero Trust, IAM, Networking, Cloud Security, Linux",3
+DevSecOps Security Engineer,"Security, Docker, Kubernetes, CI/CD, Terraform",3
+Security Compliance Analyst,"Cybersecurity, Risk, Compliance, SQL, Documentation",2
+GRC Analyst,"Governance, Risk, Compliance, Cybersecurity, Excel",1
+Privacy Engineer,"Data Privacy, Python, SQL, Security, Compliance",2
+Security Automation Engineer,"Python, SOAR, SIEM, APIs, Linux",2
+Cryptography Engineer,"Cryptography, Python, C++, Mathematics, Security",3
+Blockchain Security Engineer,"Solidity, Ethereum, Security, Python, Cryptography",2
+Smart Contract Auditor,"Solidity, Ethereum, Security, Testing, Cryptography",2
+Network Engineer,"Networking, TCP/IP, Routing, Switching, Linux",2
+Senior Network Engineer,"Networking, BGP, OSPF, Routing, Switching",5
+Network Administrator,"Networking, TCP/IP, DNS, DHCP, Linux",1
+Network Architect,"Networking, BGP, OSPF, Cloud, Security",6
+Network Security Architect,"Networking, Firewalls, VPN, Security, Cloud",5
+Wireless Network Engineer,"Wi-Fi, Networking, TCP/IP, Troubleshooting, Security",2
+NOC Engineer,"Networking, Linux, Monitoring, TCP/IP, Troubleshooting",1
+Network Automation Engineer,"Python, Networking, Ansible, APIs, Linux",2
+Systems Administrator,"Linux, Windows Server, Networking, PowerShell, Bash",2
+Linux Administrator,"Linux, Bash, Networking, Python, System Administration",1
+Windows Administrator,"Windows Server, PowerShell, Active Directory, Networking",1
+Systems Engineer,"Linux, Windows, Networking, Python, Virtualization",2
+IT Infrastructure Engineer,"Linux, Networking, VMware, Windows Server, Cloud",2
+IT Support Engineer,"Windows, Networking, Troubleshooting, Active Directory",0
+Technical Support Engineer,"Linux, Networking, SQL, Troubleshooting, APIs",1
+Application Support Engineer,"Linux, SQL, Troubleshooting, APIs, Monitoring",1
+IT Operations Engineer,"Linux, Windows, Networking, Monitoring, ITIL",2
+Virtualization Engineer,"VMware, Linux, Windows Server, Networking, Storage",2
+Storage Engineer,"Linux, SAN, NAS, Storage, Networking",2
+Systems Architect,"Linux, Windows, Networking, Cloud, System Design",5
+QA Engineer,"Python, Selenium, Testing, SQL, Git",1
+Senior QA Engineer,"Python, Selenium, API Testing, SQL, Git",4
+Automation Test Engineer,"Python, Selenium, PyTest, API Testing, Git",2
+Test Automation Engineer,"Java, Selenium, TestNG, API Testing, Jenkins",2
+QA Automation Architect,"Selenium, Java, Python, CI/CD, Testing",5
+Software Test Engineer,"Java, Selenium, SQL, Testing, Git",1
+Manual QA Tester,"Software Testing, Test Cases, SQL, Jira",0
+Performance Test Engineer,"JMeter, Load Testing, Python, SQL, Monitoring",2
+API Test Engineer,"Postman, REST API, Python, SQL, Testing",2
+Mobile QA Engineer,"Android, iOS, Appium, Selenium, Testing",2
+Mobile Application Developer,"Android, Kotlin, Java, Firebase, Git",1
+Android Developer,"Kotlin, Java, Android SDK, Firebase, Git",2
+Senior Android Developer,"Kotlin, Java, Android SDK, REST API, Git",5
+iOS Developer,"Swift, SwiftUI, iOS SDK, Xcode, Git",2
+Senior iOS Developer,"Swift, SwiftUI, iOS SDK, REST API, Git",5
+Flutter Developer,"Dart, Flutter, Firebase, REST API, Git",1
+React Native Developer,"JavaScript, React Native, TypeScript, REST API, Git",2
+Mobile App Engineer,"Kotlin, Swift, Flutter, REST API, Git",2
+Cross Platform Developer,"Flutter, React Native, JavaScript, Dart, Git",2
+AR Developer,"Unity, C#, 3D Graphics, ARKit, ARCore",2
+VR Developer,"Unity, C#, 3D Graphics, VR, Blender",2
+Unity Developer,"Unity, C#, C++, 3D Graphics, Git",1
+Game Developer,"Unity, C#, C++, Game Design, Git",2
+Game Programmer,"C++, C#, Unity, Algorithms, Game Development",2
+Game Engine Developer,"C++, C, OpenGL, Graphics, Mathematics",3
+Graphics Programmer,"C++, OpenGL, DirectX, GLSL, Mathematics",3
+Embedded Systems Engineer,"C, C++, Embedded Linux, Microcontrollers, RTOS",2
+Embedded Software Engineer,"C, C++, RTOS, Microcontrollers, Git",2
+Firmware Engineer,"C, C++, Microcontrollers, Embedded Linux, Debugging",2
+IoT Engineer,"Python, C++, MQTT, Raspberry Pi, IoT",2
+IoT Developer,"Python, C, MQTT, Arduino, IoT",1
+Robotics Engineer,"Python, C++, ROS, Robotics, Computer Vision",2
+Robotics Software Engineer,"Python, C++, ROS, Linux, Algorithms",2
+Computer Engineer,"C++, Linux, Computer Architecture, Networking, Git",2
+Hardware Software Engineer,"C, C++, Embedded Systems, Linux, Microcontrollers",3
+FPGA Engineer,"Verilog, VHDL, FPGA, Digital Electronics, C++",2
+VLSI Design Engineer,"Verilog, VHDL, Digital Electronics, CMOS, FPGA",2
+ASIC Design Engineer,"Verilog, SystemVerilog, RTL, Digital Electronics, Linux",3
+Embedded Linux Engineer,"C, C++, Linux, Bash, Embedded Systems",2
+Device Driver Engineer,"C, C++, Linux Kernel, Embedded Linux, Debugging",3
+Kernel Developer,"C, C++, Linux Kernel, Operating Systems, Git",3
+Operating Systems Engineer,"C, C++, Linux, Operating Systems, Algorithms",3
+Low Level Systems Engineer,"C, C++, Linux, Assembly, Operating Systems",3
+Computer Architecture Engineer,"C, C++, Computer Architecture, Linux, Assembly",3
+Technical Game Designer,"Unity, Game Design, C#, 3D Graphics, Blender",1
+Game Tools Engineer,"C++, Python, Unity, Git, Game Development",2
+Simulation Engineer,"Python, C++, Mathematics, Simulation, Algorithms",2
+3D Software Engineer,"C++, OpenGL, Blender, 3D Graphics, Mathematics",2
+Rendering Engineer,"C++, OpenGL, DirectX, GLSL, 3D Graphics",3
+Product Manager,"Product Management, SQL, Analytics, Agile, Communication",2
+Technical Product Manager,"Product Management, APIs, SQL, Agile, System Design",3
+Data Product Manager,"Product Management, SQL, Python, Analytics, Agile",3
+AI Product Manager,"AI, Product Management, Machine Learning, Analytics, Agile",3
+Technical Program Manager,"Program Management, Agile, Jira, SQL, Communication",4
+Project Manager,"Project Management, Agile, Jira, Scrum, Communication",2
+Scrum Master,"Agile, Scrum, Jira, Project Management, Communication",2
+Business Analyst,"SQL, Excel, Power BI, Requirements Analysis, Communication",1
+Technical Business Analyst,"SQL, APIs, Requirements Analysis, Agile, Documentation",2
+Systems Analyst,"SQL, System Design, Requirements Analysis, UML, APIs",2
+Solutions Engineer,"APIs, Python, SQL, Cloud, System Design",2
+Sales Engineer,"APIs, Cloud, Networking, Technical Sales, Communication",2
+Developer Advocate,"Python, APIs, Git, Technical Writing, Communication",2
+Technical Writer,"Technical Writing, APIs, Git, Documentation, Markdown",1
+Documentation Engineer,"Technical Writing, APIs, Git, Documentation, Markdown",1
+Developer Relations Engineer,"Python, JavaScript, APIs, Git, Public Speaking",2
+Open Source Engineer,"Python, Git, Linux, APIs, Open Source",2
+Open Source Maintainer,"Python, Git, Linux, GitHub, Open Source",3
+Research Software Engineer,"Python, C++, Linux, Algorithms, Research",3
+Research Programmer,"Python, R, Statistics, Algorithms, Research",2
+Computational Scientist,"Python, Mathematics, Statistics, Machine Learning, Research",3
+Bioinformatics Engineer,"Python, R, Statistics, Genomics, Data Analysis",2
+Scientific Software Engineer,"Python, C++, Linux, Mathematics, Scientific Computing",3
+Geospatial Data Engineer,"Python, SQL, GIS, PostGIS, Data Engineering",2
+GIS Developer,"Python, JavaScript, GIS, SQL, Mapping",2
+GIS Software Engineer,"Python, JavaScript, GIS, PostGIS, APIs",2
+Geospatial Analyst,"Python, GIS, SQL, Data Visualization, Statistics",1
+Data Operations Analyst,"SQL, Python, Excel, Data Quality, Analytics",1
+Data Operations Engineer,"Python, SQL, ETL, Airflow, Linux",2
+Analytics Developer,"SQL, Python, Power BI, Tableau, Data Modeling",2
+Reporting Analyst,"SQL, Excel, Power BI, Tableau, Data Analysis",1
+Marketing Data Analyst,"SQL, Python, Excel, Statistics, Data Visualization",1
+Product Data Analyst,"SQL, Python, Statistics, A/B Testing, Analytics",2
+Business Intelligence Engineer
